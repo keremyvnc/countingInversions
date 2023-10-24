@@ -4,7 +4,7 @@
 it has. An inversion in an array A is a pair (i, j) of indices such that i < j
 and A[i] > A[j].
 
-**Examples**
+****Examples****
 
 ***input***
 
