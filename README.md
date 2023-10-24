@@ -14,6 +14,17 @@ between the two pivots, and the third containing elements greater than the large
 **Q3.java**
 
   In this file, I implemented 3 pivot variation of the QuickSort algorithm.
+
+
+  **All file run the same way shown down below.**
+
+  **input**
+  
+  5
+  1.2 4.2 3.3 4.21 3.25
+  **output**
+  
+  1.2 3.25 3.3 4.2 4.21 
   
 
   
