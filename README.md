@@ -14,7 +14,7 @@ and A[i] > A[j].
 ***output***
 
 27
-
+ 
 ***input***
 
 5
